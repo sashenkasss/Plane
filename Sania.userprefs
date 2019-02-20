@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Menu.cs">
+    <Files>
+      <File FileName="Assets\Script\Menu.cs" Line="37" Column="3" />
+      <File FileName="Assets\Script\Player.cs" Line="12" Column="38" />
+      <File FileName="Assets\Script\SpawnCoin.cs" Line="7" Column="27" />
+      <File FileName="Assets\Script\PlayerCharacter.cs" Line="67" Column="4" />
+      <File FileName="Assets\Script\EmptyMove.cs" Line="21" Column="6" />
+      <File FileName="Assets\Script\MoveGround.cs" Line="32" Column="59" />
+      <File FileName="Assets\Script\MoveCoin.cs" Line="7" Column="25" />
+      <File FileName="Assets\Script\ConstComponent.cs" Line="12" Column="1" />
+      <File FileName="Assets\GameManager.cs" Line="17" Column="17" />
+      <File FileName="Assets\NoMusic.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Александр\Documents\Sania\Assets\Script\Menu.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
